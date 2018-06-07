@@ -1,4 +1,4 @@
 # Resume
 My Resume
-[Japanages](ja)
-[Korean](ko)
+[Japanages](README.ja.md)
+[Korean](README.ko.md)
