@@ -1,4 +1,5 @@
 # Resume
 My Resume
-[Japanages](README.ja.md)
-[Korean](README.ko.md)
+
+[English](README.md), [日本語](README.ja.md), [한국어](README.ko.md)
+
